@@ -24,6 +24,3 @@ Each colour leg goes through its own 220Ω resistor. The long leg (common cathod
 | Leg 2 | GND |
 
 
-## License
-
-MIT — free to use, modify, and share.
