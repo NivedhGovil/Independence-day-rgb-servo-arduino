@@ -1,8 +1,8 @@
 # Waving Tiranga — Arduino Servo Flag with Tricolour RGB
 
-An Arduino project that mounts the Indian national flag on a servo horn and sweeps it back and forth to create a continuous waving motion. Alongside it, an RGB LED cycles through the three colours of the flag — saffron, white, and green — one second each.
+An Arduino project that mounts the Indian national flag on a servo horn and waves it back and forth. Simultaneously, an RGB LED cycles through the three colours of the flag — saffron, white, and green — one second each.
 
-The servo is toggled ON/OFF with a push button. The LED runs continuously, independent of the servo state.
+The servo is toggled ON/OFF with a push button. The LED runs continuously, independent of the servo and button state.
 
 ---
 
